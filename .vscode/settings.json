@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.useBrowserPreview": false,
+    "liveServer.settings.useLocalIp": true,
+    "liveServer.settings.NoBrowser": true,
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.CustomBrowser": "chrome"
+}
